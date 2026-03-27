@@ -1,0 +1,1 @@
+This repo contains input and output files in the 'treasure chest' folder for code notebook exercises from the Genome 541 course taught by Sean Gibbons in the spring of 2025 at the University of Washington.
